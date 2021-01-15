@@ -1,0 +1,23 @@
+Definition of server port:
+- A port is a communication endpoint. At the software level, within an operating system
+- A port is a logical construct that identifies a specific process or a type of network service.
+
+What is server port range?
+- A port is identified for each transport protocol and address combination by a 16-bit unsigned number, known as the port number.
+- Registered ports are in the range 1024 to 49151. Dynamic ports are in the range 49152 to 65535.
+- New port assignments are in the range from 1024 to 49151.
+
+How many bits does number above represent?
+- 16 bits
+
+State 10 common server ports
+-20,21
+-25
+-53
+-69
+-80
+-110
+-119
+-123
+-143
+-3389
