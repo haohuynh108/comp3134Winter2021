@@ -1,0 +1,2 @@
+PING 138.197.163.115 (138.197.163.115) 56(84) bytes of data.
+64 bytes from 138.197.163.115: icmp_seq=1 ttl=64 time=0.068 ms

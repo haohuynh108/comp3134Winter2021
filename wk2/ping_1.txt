@@ -1,0 +1,2 @@
+PING gmail.com (172.217.1.165) 56(84) bytes of data.
+64 bytes from yyz10s04-in-f5.1e100.net (172.217.1.165): icmp_seq=1 ttl=121 time=1.46 ms
