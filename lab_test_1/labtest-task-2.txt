@@ -1,0 +1,26 @@
+Domain Name: UBISOFT.COM
+Registry Domain ID: 1202713_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: http://www.gandi.net
+Updated Date: 2020-03-28T15:53:45Z
+Creation Date: 1995-04-27T04:00:00Z
+Registry Expiry Date: 2022-04-28T04:00:00Z
+Registrar: Gandi SAS
+Registrar IANA ID: 81
+Registrar Abuse Contact Email: abuse@support.gandi.net
+Registrar Abuse Contact Phone: +33.170377661
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NIC10.UBISOFT.COM
+Name Server: NIC11.UBISOFT.COM
+Name Server: NIC12.UBISOFT.COM
+Name Server: NIC7.UBISOFT.COM
+Name Server: NIC8.UBISOFT.COM
+Name Server: NIC9.UBISOFT.COM
+DNSSEC: unsigned
+
+S. 	No.Domain Name		IP Address
+1	ubisoft.com	bisoft.com./18.210.95.112
+2	ubisoft.com	bisoft.com./52.4.24.38
+3	ubisoft.com	bisoft.com./52.205.208.159
+4	ubisoft.com	bisoft.com./52.0.37.193
+5	ubisoft.com	bisoft.com./52.86.133.158

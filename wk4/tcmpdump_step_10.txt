@@ -1,0 +1,28 @@
+00:12:47.792871 IP mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557 > 138.197.163.115.ssh: Flags [P.], seq 181:217, ack 324636, win 64240, length 36
+00:12:47.792985 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 341992:342204, ack 217, win 65535, length 212
+00:12:47.793122 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 342204:342416, ack 217, win 65535, length 212
+00:12:47.793240 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 342416:342628, ack 217, win 65535, length 212
+00:12:47.793358 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 342628:342840, ack 217, win 65535, length 212
+00:12:47.793474 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 342840:343052, ack 217, win 65535, length 212
+00:12:47.793536 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 343052:343264, ack 217, win 65535, length 212
+00:12:47.793676 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 343264:343652, ack 217, win 65535, length 388
+00:12:47.793796 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 343652:343864, ack 217, win 65535, length 212
+00:12:47.793915 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 343864:344076, ack 217, win 65535, length 212
+00:12:47.794031 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 344076:344288, ack 217, win 65535, length 212
+00:12:47.794147 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 344288:344500, ack 217, win 65535, length 212
+00:12:47.794309 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 344500:344712, ack 217, win 65535, length 212
+00:12:47.794506 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 344712:344924, ack 217, win 65535, length 212
+00:12:47.794705 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 344924:345136, ack 217, win 65535, length 212
+00:12:47.794895 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 345136:345348, ack 217, win 65535, length 212
+00:12:47.795076 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 345348:345560, ack 217, win 65535, length 212
+00:12:47.795307 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 345560:345772, ack 217, win 65535, length 212
+00:12:47.795500 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 345772:345984, ack 217, win 65535, length 212
+00:12:47.795686 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 345984:346196, ack 217, win 65535, length 212
+00:12:47.795868 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 346196:346408, ack 217, win 65535, length 212
+00:12:47.796052 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 346408:346620, ack 217, win 65535, length 212
+00:12:47.796248 IP mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557 > 138.197.163.115.ssh: Flags [P.], seq 217:253, ack 324636, win 64240, length 36
+00:12:47.796373 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 346620:346832, ack 253, win 65535, length 212
+^C
+1666 packets captured
+1666 packets received by filter
+0 packets dropped by kernel

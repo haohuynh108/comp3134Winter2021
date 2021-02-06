@@ -1,0 +1,10 @@
+Pinging ubisoft.com [52.0.37.193] with 32 bytes of data:
+Reply from 52.0.37.193: bytes=32 time=30ms TTL=224
+Reply from 52.0.37.193: bytes=32 time=31ms TTL=224
+Reply from 52.0.37.193: bytes=32 time=34ms TTL=224
+Reply from 52.0.37.193: bytes=32 time=30ms TTL=224
+
+Ping statistics for 52.0.37.193:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 34ms, Average = 31ms

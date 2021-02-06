@@ -1,0 +1,10 @@
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+23:51:59.807980 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 2359600670:2359600778, ack 1381412208, win 63360, length 108
+23:51:59.808121 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 108:144, ack 1, win 63360, length 36
+23:51:59.808231 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 144:252, ack 1, win 63360, length 108
+23:51:59.808315 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 252:288, ack 1, win 63360, length 36
+23:51:59.809092 IP 138.197.163.115.44936 > dns.google.domain: 18233+ PTR? 0.63.162.142.in-addr.arpa. (43)
+5 packets captured
+21 packets received by filter
+0 packets dropped by kernel

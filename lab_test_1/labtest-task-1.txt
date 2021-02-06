@@ -1,0 +1,11 @@
+Ubisoft
+CEO: Yves Guillemot
+CFO: Frédérick Duguet
+number of employees: 18.045
+current job postings:	Cloud Administrator - Linux (IT)
+			Back-End Developer – Engineering and Platform (IT)
+			DevOps Team Lead - Ubisoft Kubernetes Service (IT)
+			IT Director (IT)
+headquarter locations: 	Montreuil , France
+
+

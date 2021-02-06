@@ -1,0 +1,4 @@
+Tracing route to ubisoft.com [52.205.208.159]
+over a maximum of 30 hops:
+
+  1     5 ms    12 ms     2 ms

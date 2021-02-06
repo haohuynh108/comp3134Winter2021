@@ -1,0 +1,28 @@
+00:12:14.162672 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 433256:433468, ack 217, win 65535, length 212
+00:12:14.162788 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 433468:433680, ack 217, win 65535, length 212
+00:12:14.162902 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 433680:433892, ack 217, win 65535, length 212
+00:12:14.163013 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 433892:434104, ack 217, win 65535, length 212
+00:12:14.163160 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 434104:434316, ack 217, win 65535, length 212
+00:12:14.163276 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 434316:434528, ack 217, win 65535, length 212
+00:12:14.163452 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 434528:434740, ack 217, win 65535, length 212
+00:12:14.163586 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 434740:434952, ack 217, win 65535, length 212
+00:12:14.163703 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 434952:435164, ack 217, win 65535, length 212
+00:12:14.163819 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 435164:435376, ack 217, win 65535, length 212
+00:12:14.163937 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 435376:435588, ack 217, win 65535, length 212
+00:12:14.164051 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 435588:435800, ack 217, win 65535, length 212
+00:12:14.164165 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 435800:436012, ack 217, win 65535, length 212
+00:12:14.164277 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 436012:436224, ack 217, win 65535, length 212
+00:12:14.164400 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 436224:436436, ack 217, win 65535, length 212
+00:12:14.164515 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 436436:436648, ack 217, win 65535, length 212
+00:12:14.164627 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 436648:436860, ack 217, win 65535, length 212
+00:12:14.164745 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 436860:437072, ack 217, win 65535, length 212
+00:12:14.164862 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 437072:437284, ack 217, win 65535, length 212
+00:12:14.164976 IP 138.197.163.115.ssh > mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557: Flags [P.], seq 437284:437496, ack 217, win 65535, length 212
+00:12:14.165012 IP mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557 > 138.197.163.115.ssh: Flags [.], ack 395636, win 64240, length 0
+00:12:14.165013 IP mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557 > 138.197.163.115.ssh: Flags [.], ack 397756, win 64240, length 0
+00:12:14.165013 IP mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557 > 138.197.163.115.ssh: Flags [P.], seq 217:289, ack 397756, win 64240, length 72
+00:12:14.165013 IP mctnnbsa45w-142-162-63-0.dhcp-dynamic.fibreop.nb.bellaliant.net.64557 > 138.197.163.115.ssh: Flags [.], ack 400348, win 64240, length 0
+^C
+2102 packets captured
+2102 packets received by filter
+0 packets dropped by kernel
