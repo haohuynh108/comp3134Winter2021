@@ -1,0 +1,2 @@
+service ssh start
+sudo grep Port /etc/ssh/sshd_config
