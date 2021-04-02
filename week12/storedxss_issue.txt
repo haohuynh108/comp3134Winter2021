@@ -1,0 +1,1 @@
+It only show the blank page, but it could be dangerous for the user because they don't know what they clicked on the link.
