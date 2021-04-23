@@ -1,0 +1,256 @@
+1. freelancer.com
+
+Registrar Info
+NameENOM, INC.
+Whois ServerWHOIS.ENOM.COM
+Referral URLWWW.ENOM.COM
+StatusclientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Important Dates
+Expires On2029-08-17
+Registered On1995-08-18
+Updated On2020-02-02
+Registrant Contact Information:
+NameREDACTED FOR PRIVACY
+OrganizationREDACTED FOR PRIVACY
+AddressREDACTED FOR PRIVACY
+CityREDACTED FOR PRIVACY
+State / ProvinceNSW
+Postal CodeREDACTED FOR PRIVACY
+CountryAU
+PhoneREDACTED FOR PRIVACY
+FaxREDACTED FOR PRIVACY
+
+2. georgebrown.ca
+
+Registrar Info
+NameWebnames.ca Inc.
+Whois Serverwhois.ca.fury.ca
+Referral URLwww.webnames.ca
+StatusclientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Important Dates
+Expires On2021-07-04
+Registered On2002-07-04
+Updated On2020-10-24
+Name Servers
+ns1.d-zone.ca162.219.54.2
+ns1.georgebrown.ca198.96.86.35
+ns2.d-zone.ca162.219.55.2
+ns2.georgebrown.ca198.96.87.135
+Registrant Contact Information:
+NameGeorge Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal CodeM5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+Administrative Contact Information:
+NameGeorge Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal CodeM5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+Technical Contact Information:
+NameGeorge Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal CodeM5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+Billing Contact Information:
+NameGeorge Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal CodeM5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+3. instacart.ca
+
+Registrar Info
+NameGandi Services Inc., Gandi SAS
+Whois Serverwhois.ca.fury.ca
+Referral URLwww.gandi.net
+StatusclientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Important Dates
+Expires On2021-11-02
+Registered On2013-11-02
+Updated On2020-09-28
+Name Servers
+ns-1199.awsdns-21.org205.251.196.175
+ns-1849.awsdns-39.co.uk205.251.199.57
+ns-424.awsdns-53.com205.251.193.168
+ns-811.awsdns-37.net205.251.195.43
+Registrant Contact Information:
+NameMaplebear Inc. - None
+Organization
+Address190 Liberty St, Suite 200
+CityToronto
+State / ProvinceON
+Postal CodeM6K3E9
+CountryCA
+Phone+1.9108172278
+Email
+
+Administrative Contact Information:
+NameMaplebear Inc. - None
+Organization
+Address190 Liberty St, Suite 200
+CityToronto
+State / ProvinceON
+Postal CodeM6K3E9
+CountryCA
+Phone+1.9108172278
+Email
+
+Technical Contact Information:
+NameMaplebear Inc. - None
+Organization
+Address190 Liberty St, Suite 200
+CityToronto
+State / ProvinceON
+Postal CodeM6K3E9
+CountryCA
+Phone+1.9108172278
+Email
+
+Billing Contact Information:
+NameMaplebear Inc. - None
+Organization
+Address190 Liberty St, Suite 200
+CityToronto
+State / ProvinceON
+Postal CodeM6K3E9
+CountryCA
+Phone+1.9108172278
+Email
+
+
+4. loblaws.ca
+
+Registrar Info
+NameWebnames.ca Inc.
+Whois Serverwhois.ca.fury.ca
+Referral URLwww.webnames.ca
+StatusclientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Important Dates
+Expires On2022-01-12
+Registered On2001-01-23
+Updated On2020-12-12
+Registrant Contact Information:
+NameLoblaws Inc.
+Organization
+Address22 St. Clair Ave East, Suite 701
+CityToronto
+State / ProvinceON
+Postal CodeM4T2S5
+CountryCA
+Phone+1.4169221383
+Email
+
+Administrative Contact Information:
+NameLoblaws Inc.
+Organization
+Address22 St. Clair Ave East, Suite 701
+CityToronto
+State / ProvinceON
+Postal CodeM4T2S5
+CountryCA
+Phone+1.4169221383
+Email
+
+Technical Contact Information:
+NameLoblaws Inc.
+Organization
+Address22 St. Clair Ave East, Suite 701
+CityToronto
+State / ProvinceON
+Postal CodeM4T2S5
+CountryCA
+Phone+1.4169221383
+Email
+
+Billing Contact Information:
+NameLoblaws Inc.
+Organization
+Address22 St. Clair Ave East, Suite 701
+CityToronto
+State / ProvinceON
+Postal CodeM4T2S5
+CountryCA
+Phone+1.4169221383
+Email
+
+5. hellofresh.ca
+
+Registrar Info
+NameGandi Services Inc., Gandi SAS
+Whois Serverwhois.ca.fury.ca
+Referral URLwww.gandi.net
+StatusclientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Important Dates
+Expires On2021-12-06
+Registered On2011-12-06
+Updated On2020-11-01
+Registrant Contact Information:
+NameHelloFresh Canada Inc. inc.
+Organization
+Address192 Spadina Avenue, Suite 415
+CityToronto
+State / ProvinceON
+Postal CodeM5T2C2
+CountryCA
+Phone+49.15750100151
+Email
+
+Administrative Contact Information:
+NameHelloFresh Canada Inc. inc.
+Organization
+Address192 Spadina Avenue, Suite 415
+CityToronto
+State / ProvinceON
+Postal CodeM5T2C2
+CountryCA
+Phone+49.15750100151
+Email
+
+Technical Contact Information:
+NameHelloFresh Canada Inc. inc.
+Organization
+Address192 Spadina Avenue, Suite 415
+CityToronto
+State / ProvinceON
+Postal CodeM5T2C2
+CountryCA
+Phone+49.15750100151
+Email
+
+Billing Contact Information:
+NameHelloFresh Canada Inc. inc.
+Organization
+Address192 Spadina Avenue, Suite 415
+CityToronto
+State / ProvinceON
+Postal CodeM5T2C2
+CountryCA
+Phone+49.15750100151
+Email

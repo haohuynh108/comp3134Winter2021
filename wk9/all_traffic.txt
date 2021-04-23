@@ -1,0 +1,8 @@
+Part C:
+
+tcpdump -i eth0
+tcpdump -w all_traffic_20210308_1540.pcap -i eth0
+tcpdump -r all_traffic_20210308_1540.pcap
+
+Part D:
+ping -s 3200 -W 120 134.122.44.78

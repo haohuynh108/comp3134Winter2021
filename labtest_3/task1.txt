@@ -1,0 +1,6 @@
+1.
+a. facebook.com
+b. <input type="hidden" autocomplete="off" name="login_source" value="comet_headerless_login">
+   <input type="hidden" autocomplete="off" name="next" value="">
+   <input type="hidden" name="jazoest" value="2949" autocomplete="off">
+c. Method "POST"

